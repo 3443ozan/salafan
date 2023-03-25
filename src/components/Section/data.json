@@ -1,0 +1,40 @@
+
+
+[
+    {
+        "id":1,
+        "header":"Cuisine",
+        "p":"36 members",
+        "img": "/images/img1.svg"
+    },
+    {
+        "id":2,
+        "header":"Art",
+        "p":"9 members",
+        "img": "/images/img2.svg"
+    },
+    {
+        "id":3,
+        "header":"Workout",
+        "p":"27 members",
+        "img": "/images/img3.svg"
+    },
+    {
+        "id":4,
+        "header":"Gaming",
+        "p":"105 members",
+        "img": "./images/img4.svg"
+    },
+    {
+        "id":5,
+        "header":"Hiking",
+        "p":"97 members",
+        "img": "./images/img5.svg"
+    },
+    {
+        "id":6,
+        "header":"Yoga",
+        "p":"65 members",
+        "img": "./images/img6.svg"
+    }
+]

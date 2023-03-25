@@ -1,0 +1,58 @@
+section{
+    padding: 35px 0;
+    max-width: 800px;
+
+    .first{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        h1{
+            font-weight: 700;
+            font-size: 26px;
+            color: rgba(177, 185, 216, 1);
+        }
+        .btnC{
+            margin-left: 516px;
+            background: #1A2036;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 8px;
+            padding-top: 4px;
+            button{
+                background: none;
+                border: none;
+            }
+        }
+    }
+    .Main{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        margin-top: 20px;
+        .card{
+            padding: 40px 50px 35px 50px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 210px;
+            border-radius: 10px;
+            background: rgba(26, 32, 54, 1);
+            #speciel{
+                margin-top: 20px;
+            }
+            h1{
+                font-weight: 700;
+                font-size: 18px;
+                color: rgba(177, 185, 216, 1);
+                margin-top: 10px;
+            }
+            p{
+                font-weight: 500;
+                font-size: 14px;
+                color: rgba(177, 185, 216, 1);
+                margin-top: 5px;
+            }
+        }
+    }
+}
