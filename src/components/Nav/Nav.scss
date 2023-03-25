@@ -4,4 +4,20 @@ nav{
     flex-direction: column;
     padding: 158px 35px;
     background: #1A2036;
+    border-radius: 20px;
+    ul{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        #speciel{
+            border-radius: 10px;
+            background: #242B42;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        li{
+            padding: 13px;
+        }
+    }
 }
